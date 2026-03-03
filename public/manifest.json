@@ -1,0 +1,26 @@
+{
+  "name": "i24NEWS APPS Dashboard",
+  "short_name": "i24 DASH",
+  "description": "i24NEWS Internal Applications' Dashboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#06234b",
+  "theme_color": "#06234b",
+  "orientation": "any",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
